@@ -1,0 +1,26 @@
+@media only screen and (max-width: 850px) {
+    .project img {
+        min-height: auto;
+    }
+    #tools,#information{
+        padding: 0;
+    }
+    #tools{
+        margin-bottom: 50px;
+    }
+    .row{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .retrato{
+        display:none;
+    }
+    #professionalProfile{
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .container{
+        width: 90%;
+        padding: 1%;
+    }
+}
