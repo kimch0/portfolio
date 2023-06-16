@@ -84,11 +84,7 @@ function App() {
                   <li>
                     <ReturnExperienceData
                       year='2023'
-                      description='Design and 
-                      development of an application that scans the 
-                      barcode on the student ID card, providing the 
-                      capability to display and enable modifications to 
-                      their information.
+                      description='Designed and developed an application that scans the barcode on student ID cards, allowing for the display of information and enabling modifications as needed.
                       '
                       place='C.T.P. Liverpool'
                       role="Full-Stack Developer (Freelance)" />
